@@ -1,0 +1,16 @@
+.message-validation-title {
+    margin-top: -12px;
+}
+
+.message-validation-description {
+    margin-top: -17px;
+}
+
+.no-data {
+    position: absolute;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-radius: 7px;
+    border-top: none;
+}
